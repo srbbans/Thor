@@ -1,2 +1,2 @@
 # Thor
-A Simple program execution app using Ci/CD github actions.
+A tiny Java program execution project using Ci/CD github actions.
